@@ -6,8 +6,8 @@ import detectvps
 from pandas.core.accessor import PandasDelegate
 
 
-imagepath =r'.\picture\test.jpg'
-fig_savepath=r'.\picture'
+imagepath =r'.\test.jpg'
+fig_savepath=r'.'
 name = 'test'
 brightness = brightness_OpenCV.image_v (imagepath)
 clarity = clarity_OpenCV.getImageVar(imagepath)
