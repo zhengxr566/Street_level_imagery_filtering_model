@@ -10,5 +10,3 @@ pip install gluoncv
 pip install numpy
 pip install scikit-image
 pip install mxnet（python版本过高安装mxnet失败解决方法：http://t.csdn.cn/UbGqQ）
-
-有些包可能环境默认包含。（pandas,numpy）
