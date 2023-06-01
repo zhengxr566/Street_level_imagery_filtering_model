@@ -1,5 +1,5 @@
 # Street_level_imagery_filtering_model
-This is model used in
+This is the model used in
 "settingsOrder Article Reprints Open AccessArticle Method for Applying Crowdsourced Street-Level Imagery Data to Evaluate Street-Level Greenness (Zheng &amp; Amemiya, 2023)"
 
 pip install opencv-python
