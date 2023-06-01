@@ -9,4 +9,4 @@ pip install matplotlib
 pip install gluoncv
 pip install numpy
 pip install scikit-image
-pip install mxnet（python版本过高安装mxnet失败解决方法：http://t.csdn.cn/UbGqQ）
+pip install mxnet（Solution to failed installation of mxnet due to high Python version：http://t.csdn.cn/UbGqQ）
